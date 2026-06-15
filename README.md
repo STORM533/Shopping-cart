@@ -1,7 +1,6 @@
 # React Shopping Cart
 
-A multi-page e-commerce shopping cart application built with React and React Router. Products are fetched live from the [FakeStore API](https://fakestoreapi.com). Built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
-
+A multi-page e-commerce shopping cart application built with React and React Router. Products are fetched live from the [FakeStore API](https://fakestoreapi.com). 
 ---
 
 ## Features
