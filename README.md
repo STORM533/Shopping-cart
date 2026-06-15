@@ -1,6 +1,7 @@
 # React Shopping Cart
 
 A multi-page e-commerce shopping cart application built with React and React Router. Products are fetched live from the [FakeStore API](https://fakestoreapi.com). 
+
 ---
 
 ## Features
